@@ -1,4 +1,5 @@
 
+# Chatbot QA over documents pdf using Qdrant, Langchain and OpenAI
 ![Langchain image](https://raw.githubusercontent.com/Bellota22/chatbot_qa_langchain/master/images/langchain.png)
 
 ## Features
