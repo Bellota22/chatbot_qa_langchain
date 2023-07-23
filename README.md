@@ -3,7 +3,7 @@ title: "Chatbot over documents PDF with OpenAI, Langchain and Qdrant"
 date: '2023-07-07'
 ---
 
-![Aquí la descripción de la imagen por si no carga](https://raw.githubusercontent.com/Bellota22/Dashboard_powerBI/master/female.png)
+![Aquí la descripción de la imagen por si no carga](https://raw.githubusercontent.com/Bellota22/chatbot_qa_langchain/master/images/langchain.png)
  
 
 ## Features
